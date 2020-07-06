@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Array {
 
     static Scanner reader = new Scanner(System.in); 
-    public static void main(final String[] args) {
+    public static void main(String[] args) {
         
         String[] jobs = new String[5];
         // float[] age = new float[10];
